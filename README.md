@@ -6,7 +6,7 @@
 
 |  Front-end   | Back-end   |  Full Stack   | API Development   |
 | ----------- | ----------- | ----------- | ----------- |
-| <img src="https://commons.wikimedia.org/wiki/File:React-icon.svg" width=50px height=50px>
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width=50px height=50px>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=50px height=50px>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width=50px height=50px>
 <img src="https://www.datocms-assets.com/205/1583850012-nuxt-square.svg" width=50px height=50px>

@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/xIY81FvbH999"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&logo=skype&logoColor=important&message=Contact%20me&style=style=flat&color=important" alt="Badge"/></a>
 </h1>
-<img align="right" width="200" src="https://github.com/acehood0126/acehood0126/blob/main/pics/coding2.gif" />
+<img align="right" width="220" src="https://github.com/acehood0126/acehood0126/blob/main/pics/coding2.gif" />
   <p>
- Creative, Passionate, and Efficient Senior Web3 & Cryptocurrency engineer with over 2+ years of experience in BlockChain and for 5+ years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DApp, NFT Marketplaces, Mint Websites by using web3 and Solidity. Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
+&nbsp;Creative, Passionate, and Efficient Senior Web3 & Cryptocurrency engineer with over 2+ years of experience in BlockChain and for 5+ years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DApp, NFT Marketplaces, Mint Websites by using web3 and Solidity. Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
 <p align="center">
   <a href="https://github.com/Temple424"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Blockchain%20developer;Pixel%20Perfect%20UI/UX%20Designer;5+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>

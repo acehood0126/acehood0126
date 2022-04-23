@@ -2,6 +2,9 @@
 
 ![acehood0126's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acehood0126&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true)
 
+<p align="center">
+  <a href="https://github.com/Temple424"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Web3%20Engineer;4+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+</p>
 ### Highlights
 
 |  Program Languages   | Frameworks & Libraries   |  Full-Stack   | Databases   | Other   |

@@ -1,9 +1,8 @@
-# Thanks for visiting my Git! 👋
-<a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>
+# Welcome to my Git! 👋
 
 ## Welcome
 
-![Bluesky66's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluesky66-dev&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true)
+![acehood0126's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acehood0126&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true)
 
 ### Highlights
 

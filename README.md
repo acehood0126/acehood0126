@@ -23,8 +23,7 @@
 
 ## About me
 
-<img align="right" alt="GIF" src="https://github.com/acehood0126/acehood0126/blob/main/pics/coding1.gif?raw=true" width="400" />
-<a href="https://app.daily.dev/FireFist_ACE"><img src="https://api.daily.dev/devcards/0100eec0a5a640fbb3104ccc4b46e4f3.png?r=dnn" width="400" alt="Ace Hood's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/FireFist_ACE"><img src="https://api.daily.dev/devcards/0100eec0a5a640fbb3104ccc4b46e4f3.png?r=dnn" width="400" alt="Ace Hood's Dev Card"/></a>
 
 * I am a senior software engineer heavily focusing on web development as a full-stack.
 * My focus is to help clients with their business by fixing and creating projects of value.

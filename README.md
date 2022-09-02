@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://api.daily.dev/devcards/0100eec0a5a640fbb3104ccc4b46e4f3.png?r=dnn" style = "width: -webkit-fill-available;" alt="Ace Hood's Dev Card"/>
+  <img align="center" src="https://github.com/JustinWang47/JustinWang47/blob/Temle/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>

@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/xIY81FvbH999"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&logo=skype&logoColor=important&message=Skype&style=style=flat&color=important" alt="Badge"/></a>
 </h1>
-<img align="left" src="https://api.daily.dev/devcards/0100eec0a5a640fbb3104ccc4b46e4f3.png?r=dnn" height="300" alt="Ace Hood's Dev Card"/>
+<img align="right" width="220" src="https://github.com/acehood0126/acehood0126/blob/main/pics/coding2.gif" />
   <p>
 &nbsp;Creative, Passionate, and Efficient Senior Web3 & Cryptocurrency engineer with over 4+ years of experience in BlockChain and for 7+ years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DApp, NFT Marketplaces, Mint Websites by using web3 and Solidity. Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
@@ -28,3 +28,4 @@
 * I have experience working as an individual developer and a project manager in many projects providing me with the skills of communicating with clients to satisfy their needs.
 * My experience tells everybody who I am, what I can do for your project.
 * A day in my life may consist of : prepping web art, fixing some front-end bugs, adding an API endpoint, building Smart Contracts, dockerizing an application, database design, configuring a unit or UI test library, setting up a build or deployment plan, provisioning a test tier machine or feature work.
+<img align="center" src="https://api.daily.dev/devcards/0100eec0a5a640fbb3104ccc4b46e4f3.png?r=dnn" height="500" alt="Ace Hood's Dev Card"/>

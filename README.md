@@ -29,3 +29,4 @@
 * My experience tells everybody who I am, what I can do for your project.
 * A day in my life may consist of : prepping web art, fixing some front-end bugs, adding an API endpoint, building Smart Contracts, dockerizing an application, database design, configuring a unit or UI test library, setting up a build or deployment plan, provisioning a test tier machine or feature work.
 <img align="center" src="https://api.daily.dev/devcards/0100eec0a5a640fbb3104ccc4b46e4f3.png?r=dnn" height="500" alt="Ace Hood's Dev Card"/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acehood0126)](https://github.com/anuraghazra/github-readme-stats)

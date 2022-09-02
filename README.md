@@ -23,7 +23,7 @@
 
 ## About me
 
-<img align="right" alt="GIF" src="https://github.com/acehood0126/acehood0126/blob/main/pics/coding1.gif?raw=true" width="400" />
+<img align="right" src="https://api.daily.dev/devcards/0100eec0a5a640fbb3104ccc4b46e4f3.png?r=dnn" height="300" alt="Ace Hood's Dev Card"/>
 
 * I am a senior software engineer heavily focusing on web development as a full-stack.
 * My focus is to help clients with their business by fixing and creating projects of value.
@@ -31,4 +31,3 @@
 * My experience tells everybody who I am, what I can do for your project.
 * A day in my life may consist of : prepping web art, fixing some front-end bugs, adding an API endpoint, building Smart Contracts, dockerizing an application, database design, configuring a unit or UI test library, setting up a build or deployment plan, provisioning a test tier machine or feature work.
 
-<img align="center" src="https://api.daily.dev/devcards/0100eec0a5a640fbb3104ccc4b46e4f3.png?r=dnn" height="500" alt="Ace Hood's Dev Card"/>

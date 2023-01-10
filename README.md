@@ -46,15 +46,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./pics/solana.png" width="48" height="48" alt="Solana" />
+        <img src="./pics/Lukso.png" width="48" height="48" alt="Lukso" />
       </a>
-      <br>Solana
+      <br>Lukso
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/elrond-4441349-3679644.png" width="48" height="48" alt="Elrond" />
+        <img src="./pics/solana.png" width="48" height="48" alt="Solana" />
       </a>
-      <br>Elrond
+      <br>Solana
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">

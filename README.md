@@ -87,6 +87,12 @@
       </a>
       <br>TypeScript
     </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" width="48" height="48" alt="Solidity" />
+      </a>
+      <br>Solidity
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./pics/rust.png" width="72" height="48" alt="Rust" />
@@ -123,14 +129,20 @@
       </a>
       <br>Vue
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="48" height="48" alt="TailwindCSS" />
+      </a>
+      <br>TailwindCSS
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./pics/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="./pics/docker-original.svg" width="48" height="48" alt="Docker" />
@@ -138,28 +150,16 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./pics/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>Powershell
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/mongodb.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">

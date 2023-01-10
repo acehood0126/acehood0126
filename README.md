@@ -16,27 +16,33 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUCvl89tSAMKbnSZqc9itD8CqFMpaModsxA&usqp=CAU" width="48" height="48" alt="Ethereum" />
+        <img src="./pics/ethereum.png" width="48" height="48" alt="Ethereum" />
       </a>
       <br>Ethereum
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0bukCY968PkxsM2v3W7dLuMvkSjS1Ni65vQ&usqp=CAU" width="48" height="48" alt="Binance" />
+        <img src="./pics/binance.png" width="48" height="48" alt="Binance" />
       </a>
       <br>Binance
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pf4JAFjfEhB5VY0-TJH4Y1aLS-BPCdddsw&usqp=CAU" width="48" height="48" alt="Avalanche" />
+        <img src="./pics/avalanche.svg" width="48" height="48" alt="Avalanche" />
       </a>
       <br>Avalanche
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgwyOAYn_Z1BalQYMfN8zVqwenavJVSO9SUZ1rz0ZerShW-5Ubzf6U96kLODC-ta2bVks&usqp=CAU" width="48" height="48" alt="Polygon" />
+        <img src="./pics/polygon.png" width="48" height="48" alt="Polygon" />
       </a>
       <br>Polygon
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/cronos.svg" width="48" height="48" alt="Cronos" />
+      </a>
+      <br>Cronos
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -46,25 +52,19 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cryptologos.cc/logos/casper-cspr-logo.png" width="48" height="48" alt="Casper" />
-      </a>
-      <br>Casper
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/elrond-4441349-3679644.png" width="48" height="48" alt="Elrond" />
       </a>
       <br>Elrond
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./pics/sui.jpg" width="48" height="48" alt="Sui" />
+        <img src="./pics/sui.svg" width="48" height="48" alt="Sui" />
       </a>
       <br>Sui
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./pics/aptos.png" width="48" height="48" alt="Aptos" />
+        <img src="./pics/aptos.webp" width="48" height="48" alt="Aptos" />
       </a>
       <br>Aptos
     </td>
@@ -133,7 +133,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="48" height="48" alt="TailwindCSS" />
+        <img src="./pics/tailwindcss.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
       <br>TailwindCSS
     </td>
@@ -148,12 +148,6 @@
         <img src="./pics/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
@@ -184,6 +178,12 @@
         <img src="./pics/aws-ampliify.svg" width="48" height="48" alt="AWS_Amplify" />
       </a>
       <br>AWS_Amplify
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
     </td>
   </tr>
 </table>

@@ -169,21 +169,21 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" width="48" height="48" alt="Firebase" />
       </a>
-      <br>Grafana
+      <br>Firebase
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>Prometheus
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+        <img src="./pics/aws-ampliify.svg" width="48" height="48" alt="AWS_Amplify" />
       </a>
-      <br>Thanos
+      <br>AWS_Amplify
     </td>
   </tr>
 </table>

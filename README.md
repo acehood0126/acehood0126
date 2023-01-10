@@ -7,7 +7,7 @@
 <h1 align="center">
 </h1>
 <p>
-&nbsp;Senior Web2 & Web3 engineer with over 3+ years of experience in BlockChain and for 7+ years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from Web2 stacks to combination of Web2 & Web3 stacks to improve Web3 system performance which is the focus and the future of our life, so for now implemented <b>DApps</b>, <b>DeFi</n>, <b>NFT Marketplaces</b>, <b>NFT Mint Websites</b>, <b>Token Launchpads</b>. Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
+&nbsp;Senior web2 & web3 engineer with over 3+ years of experience in web3 world and for 7+ years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from web2 stacks to combination of web2 & web3 stacks to improve web3 system performance which is the focus and the future of our life, so for now implemented <b>DApps</b>, <b>DeFi</n>, <b>NFT Marketplaces</b>, <b>NFT Mint Websites</b>, <b>Token Launchpads</b>. Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
 
 ## Experienced Blockchain Networks

@@ -28,15 +28,21 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./pics/solana.png" width="48" height="48" alt="Solana" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pf4JAFjfEhB5VY0-TJH4Y1aLS-BPCdddsw&usqp=CAU" width="48" height="48" alt="Avalanche" />
       </a>
-      <br>Solana
+      <br>Avalanche
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://miro.medium.com/max/3150/1*iXlKV_1vNPx2y3xV-tXrWg.png" width="48" height="48" alt="Terra" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgwyOAYn_Z1BalQYMfN8zVqwenavJVSO9SUZ1rz0ZerShW-5Ubzf6U96kLODC-ta2bVks&usqp=CAU" width="48" height="48" alt="Polygon" />
       </a>
-      <br>Terra
+      <br>Polygon
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/solana.png" width="48" height="48" alt="Solana" />
+      </a>
+      <br>Solana
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -51,22 +57,16 @@
       <br>Elrond
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./pics/sui.jpg" width="48" height="48" alt="Sui" />
+      </a>
+      <br>Sui
+    </td>
+    <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3plj3648_HE4GOntwzMxwsGq9Ro9qf-wx9w&usqp=CAU" width="48" height="48" alt="React" />
+        <img src="./pics/aptos.png" width="48" height="48" alt="Aptos" />
       </a>
-      <br>Polkadot
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pf4JAFjfEhB5VY0-TJH4Y1aLS-BPCdddsw&usqp=CAU" width="48" height="48" alt="Avalanche" />
-      </a>
-      <br>Avalanche
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgwyOAYn_Z1BalQYMfN8zVqwenavJVSO9SUZ1rz0ZerShW-5Ubzf6U96kLODC-ta2bVks&usqp=CAU" width="48" height="48" alt="Polygon" />
-      </a>
-      <br>Polygon
+      <br>Aptos
     </td>
   </tr>
 </table>

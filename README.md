@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Blockchain%20developer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Blockchain%20developer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 <p align="center">
   <img align="center" src="https://github.com/JustinWang47/JustinWang47/blob/Temle/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
@@ -7,10 +7,10 @@
 <h1 align="center">
 </h1>
 <p>
-&nbsp;Creative, Passionate, and Efficient Senior Web3 & Cryptocurrency engineer with over 3+ years of experience in BlockChain and for 8+ years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3 system performance which is the focus and the future of our life, so for now implemented <b>DApps</b>, <b>DeFi</n>, <b>NFT Marketplaces</b>, <b>NFT Mint Websites</b>, <b>Token Launchpads</b>. Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
+&nbsp;Creative, Passionate, and Efficient Senior Web3 & Cryptocurrency engineer with over 3+ years of experience in BlockChain and for 7+ years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3 system performance which is the focus and the future of our life, so for now implemented <b>DApps</b>, <b>DeFi</n>, <b>NFT Marketplaces</b>, <b>NFT Mint Websites</b>, <b>Token Launchpads</b>. Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
 
-## Hightlights
+## Experienced Blockchain Networks
 
 <table>
   <tr>
